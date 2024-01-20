@@ -1,6 +1,6 @@
 ## Makala Mabotja - Data Scientist
 
-I am a results-driven data professional with 4 years of experience in sales and a BSc in Statistics. After discovering data science, I have worked on various projects using Python to extract insights and optimize business processes. 
+I am a results-driven data professional with 5 years of experience in sales and a BSc in Statistics. After discovering data science, I have worked on various projects using Python to extract insights and optimize business processes. 
 
 - 💡 Built machine learning models for customer churn prediction and sales forecasting to enable data-driven decision making
 
