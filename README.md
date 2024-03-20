@@ -1,10 +1,8 @@
-Here's an edited and more compelling version of your GitHub "About Me" section:
-
 # Makala Mabotja - Storyteller in the Language of Data
 
 With a background spanning 5 years in financial services and a BSc in Mathematical Statistics, I have embarked on an exciting journey as a data scientist, fueled by an innate passion for extracting insights from data and driving strategic decision-making. Through a diverse portfolio of projects, I have mastered the art of translating complex data into captivating narratives that empower businesses to thrive.
 
-**Achievements and Impact:**
+### Achievements and Impact:
 
 💼 **Sales Optimization**: Developed a comprehensive sales optimization solution for Aluma Capital, a leading private equity firm. Leveraged time series forecasting, customer segmentation, and sentiment analysis to drive a 25% increase in Q4 sales and a 10% boost in website traffic.
 
