@@ -1,4 +1,4 @@
-# Makala Mabotja - Storyteller in the Language of Data
+# Makala Mabotja - Data Scientist
 
 With a background spanning 5 years in financial services and a BSc in Mathematical Statistics, I have embarked on an exciting journey as a data scientist, fueled by an innate passion for extracting insights from data and driving strategic decision-making. Through a diverse portfolio of projects, I have mastered the art of translating complex data into captivating narratives that empower businesses to thrive.
 
