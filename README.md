@@ -18,7 +18,7 @@ With a background spanning 5 years in financial services and a BSc in Mathematic
 
 ### 🔧 Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,pandas,scikit-learn,django,fastapi,javascript,react,nodejs,docker,mysql,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,django,fastapi,aws,javascript,react,nodejs,docker,mysql,tailwind,vscode" />
 </p>
 
 ### 📈 GitHub Stats
