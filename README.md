@@ -12,3 +12,5 @@ With a background spanning 5 years in financial services and a BSc in Mathematic
   <br>
   <img align="left" alt="MakalaMabotja GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MakalaMabotja&show_icons=true&theme=cobalt&hide_border=true" /><br>
 </details>
+
+<img height="70px" src="https://skillicons.dev/icons?i=react,nodejs,javascript,python,flask,git,github,docker,mysql,prisma,tailwind,vscode" />
