@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/makala-mabotja"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/MakalaMabotja"><img src="https://img.shields.io/github/followers/MakalaMabotja?label=Followers&style=social" alt="GitHub"></a>
-  <a href="mailto:makala.mabotja@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:makalamabotjasfp@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
