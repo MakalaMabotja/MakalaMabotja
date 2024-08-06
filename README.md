@@ -1,5 +1,5 @@
+<h1 align="center"> Makala Mabotja </h1>
 <p align="center">
-    # Makala Mabotja 
 <a href="https://github.com/MakalaMabotja/">
     <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Data Scientist || Story Teller|| Python Developer | Python Developer;" alt="Typing SVG" />
 </a>
