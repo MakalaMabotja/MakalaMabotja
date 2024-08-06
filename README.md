@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <a href="https://github.com/MakalaMabotja/">
-    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Data+Scientist+||+Story+Teller+||+Python+Developer+||+Data+Analytics+Developer;" alt="Typing SVG" />
+    <img height="80" src="https://readme-typing-svg.demolab.com?font=Delius&size=17&duration=2000&pause=100&multiline=true&width=600&height=80&color=247d89&lines=Data+Scientist+||+Python+Developer+||+Data+Analytics+Developer||+Story+Teller;" alt="Typing SVG" />
 </a>
 </h3>
 
