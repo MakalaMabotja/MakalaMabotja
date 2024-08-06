@@ -22,13 +22,13 @@ With a background spanning 5 years in financial services and a BSc in Mathematic
 </p>
 
 ### 📈 GitHub Stats
-<details>
+<div>
   <summary>⚡ GitHub Stats & Languages</summary>
   <br>
   <img align="center" alt="MakalaMabotja GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MakalaMabotja&show_icons=true&theme=cobalt&hide_border=true" />
   <br>
   <img align="center" alt="MakalaMabotja GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakalaMabotja&layout=compact&theme=cobalt&hide_border=true" />
-</details>
+</div>
 
 ### 🌱 Current Projects
 - **Sales Optimization Project**: Leveraging data science for forecasting, segmentation, and CLTV prediction.
