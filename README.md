@@ -24,11 +24,11 @@ With a background spanning 5 years in financial services and a BSc in Mathematic
 ### 📈 GitHub Stats
 <div class="flex-col">
     <div class="flex-row">
-      <img align="center" alt="MakalaMabotja GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MakalaMabotja&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+      <img align="center" alt="MakalaMabotja GitHub Activities" src="https://github-readme-streak-stats.herokuapp.com/?user=MakalaMabotja&theme=tokyonight&hide_border=false" /> 
       <img align="center" alt="MakalaMabotja GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakalaMabotja&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />    
     </div>
-    <div>   
-      <img align="center" alt="MakalaMabotja GitHub Activities" src="https://github-readme-streak-stats.herokuapp.com/?user=MakalaMabotja&theme=tokyonight&hide_border=false" /> 
+    <div>
+      <img align="center" alt="MakalaMabotja GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MakalaMabotja&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     </div>
 </div>
 
